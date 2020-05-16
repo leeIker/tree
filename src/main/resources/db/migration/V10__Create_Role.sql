@@ -1,5 +1,6 @@
 create table tree_role(
 	id int not null auto_increment,
+	name char(50),
 	id_name int,
 	id_order int,
 	primary key(id),
