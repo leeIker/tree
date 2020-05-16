@@ -1,0 +1,1 @@
+alter table order_privilege auto_increment=100;

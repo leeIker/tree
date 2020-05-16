@@ -1,0 +1,1 @@
+alter table base_privilege auto_increment=200;

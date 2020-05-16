@@ -1,0 +1,1 @@
+alter table name_privilege auto_increment=150;
